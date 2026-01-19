@@ -61,7 +61,7 @@ launch.bat
 
 - **Nuknov**  
 - https://github.com/Nuknov
-- https://twitter.com/Nuknov
+- https://x.com/Nuknov
 
 ---
 
