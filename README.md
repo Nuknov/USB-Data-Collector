@@ -1,3 +1,5 @@
+[![Version](https://img.shields.io/badge/version-2.2-blue.svg)]()
+
 # USB Data Collector
 
 A lightweight Windows automation tool which **works on Windows only** that automatically copies selected user folders to a USB drive.  
