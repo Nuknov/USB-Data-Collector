@@ -49,7 +49,7 @@ git clone https://github.com/Nuknov/USB_Data_Collector.git
 
 cd USB_Data_Collector
 
-launch.bat
+Double Click -> launch.bat
 ```
 ---
 
@@ -61,13 +61,4 @@ launch.bat
 
 ## Author
 
-- **Nuknov**  
-- https://github.com/Nuknov
-- https://x.com/Nuknov
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+**Created by:** Nuknov
