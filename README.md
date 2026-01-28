@@ -1,4 +1,5 @@
 [![Version](https://img.shields.io/badge/version-2.2-blue.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 # USB Data Collector
 
