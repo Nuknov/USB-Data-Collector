@@ -46,9 +46,9 @@ Perfect for **authorized backups, system administration tasks, and red team lab 
 ## ⚙️ Setup
 1. **Clone** this repository or download it as a ZIP:
 ```bash
-git clone https://github.com/Nuknov/USB_Data_Collector.git
+git clone https://github.com/Nuknov/USB-Data-Collector.git
 
-cd USB_Data_Collector
+cd USB-Data-Collector
 
 Double Click -> launch.bat
 ```
@@ -63,3 +63,4 @@ Double Click -> launch.bat
 ## Author
 
 **Created by:** Nuknov
+
