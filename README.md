@@ -5,7 +5,7 @@
 [![Built by Nuknov](https://img.shields.io/badge/Built%20by-Nuknov-000000?logo=github&logoColor=white)](https://github.com/Nuknov)
 [![Red Team Research](https://img.shields.io/badge/Red%20Team%20Research-Nuknov-8B0000?logo=terminal)](https://nuknov.github.io)
 
-**USB Data Collector** is a lightweight Windows automation tool that automatically copies selected user folders to a USB drive.
+**USB Data Collector** is a lightweight Windows automation tool that automatically copies selected user folders to a USB drive in a stealth mode.
 
 Perfect for **authorized backups, system administration tasks, and red team lab simulations** in a controlled environment.
 
@@ -216,3 +216,4 @@ If you find this project useful for your security research, please consider:
 ---
 
 *Remember: With great power comes great responsibility. Use ethically. Always get permission.*
+
