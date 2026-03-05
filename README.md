@@ -29,7 +29,7 @@ Designed for **authorized testing, backups, and research in controlled environme
 
 ---
 
-## 🛰️ **Tech Stacks**
+## 🛰️ **Tech Stack**
 
 - **Windows Batch Script** – Native Windows automation
 - **Silent Execution** – No visible console windows
@@ -216,5 +216,6 @@ If you find this project useful for your security research, please consider:
 ---
 
 *Remember: With great power comes great responsibility. Use ethically. Always get permission.*
+
 
 
